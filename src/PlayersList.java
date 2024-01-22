@@ -8,7 +8,7 @@ public class PlayersList {
         Map<String, Integer> map = new HashMap<>();
         map.put("山岡", 19);
         map.put("山下", 11);
-        map.put("田島", 29);
+        map.put("山崎", 21);
         map.put("吉田", 23);
         map.put("宮城", 13);
 
